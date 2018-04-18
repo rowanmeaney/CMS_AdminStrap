@@ -1,2 +1,2 @@
 # CMS_AdminStrap
-Backend UI for an admin created using bootstrap 3
+Backend Admin UI created using bootstrap 3
